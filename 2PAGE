@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+       
+        <meta charset="utf-8">
+        <title>CSS Basics</title>
+        <style>
+          h2{ color:Green; }
+          h3{ color#B2D3C2}
+          body{ background-color: rgb(138, 154, 91);}
+        </style>
+       
+       
+    </head>
+    <body>
+      <p> Climate Change</p>
+<h1>What is Climate Change:</h1>
+
+  <img width=500 src="https://media.npr.org/assets/img/2015/10/06/ap_238135711733-75b304f2ef766d6454abcee9b06bdde0a40390bb.jpg">  
+  
+  <p>  Climate change refers to long-term shifts in temperatures and weather patterns. These shifts may be natural, such as through variations in the solar cycle. But since the 1800s, human activities have been the main driver of climate change, primarily due to burning fossil fuels like coal, oil and gas.</p> 
+   
+   <h1>Why shouId we take action?</h1>       
+  
+  <p>
+ Climate change  is caused by human activities and is threatening the way we live and the future of our planet.By addressing climate change, we can build a sustainable world for everyone.But we need to act now!
+  </p>
+  <h1>Are people’s lives really being affected by climate change?
+ 
+ </h1>
+ 
+ <p>
+ Yes. Severe weather and rising sea levels are affecting people and their property in developed and developing countries. From a small
+farmer in the Philippines to a businessman in London,climate change is affecting everyone, especially  the poor and vulnerable,as well as marginalized groups like women, children, and the elderly. And if we don't take action? If left unchecked, climate change will undo a lot of the progress made over the pastyears in development. It can also exacerbate, as we are already seeing, current threats such as food and water scarcity, which can lead to conflict. Doing nothing will end up costing us a lot more than if we take actions now that will lead to more jobs, greater prosperity, and better lives for all while reducing greenhouse gas emissions and building climate resilience.
+ </p>
+ 
+     </body>  
+   
+   
+    
+      
+</html>    
+
